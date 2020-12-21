@@ -22,14 +22,14 @@
 |onVentilatorCurrently| Currently on Ventilator |
 |positive| confirmed plus probable cases |
 |**positiveCasesViral**|unique people with a positive PCR|
-|positiveIncrease| |
+|positiveIncrease| Daily increase in positiveCasesViral |
 |positiveScore| |
 |positiveTestsAntibody| completed antibody tests that return positive|
 |***positiveTestsAntigen***| completed antigen tests that return positive |
 |*positiveTestsPeopleAntibody*| unique people with completed antibody tests that return positive |
 |***positiveTestsPeopleAntigen***| unique people with a completed antigen test that returned positive|
 |**positiveTestsViral**| completed PCR tests (or specimens tested) that return positive |
-|recovered| |
+|recovered| Recovered from COVID 19 |
 |**totalTestEncountersViral**|  people tested per day via PCR testing |
 |**totalTestEncountersViralIncrease**| Daily increase in totalTestEncountersViral|
 |totalTestResults|  computed by adding positive and negative values  | 
@@ -43,4 +43,4 @@
 |**totalTestsViral**| Total number of PCR tests (or specimens tested) |
 |**totalTestsViralIncrease**| Daily increase in totalTestsViral 
 
-[link] : https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRL2zG1o-qj9l2sl19d1lj1oHd6WbkJ0ukFwN04a_ms_ANUdgxTMpI7AF-gbQzwOSreJUDx6PEK7Vnq/pubhtml
+#### link ti data quality sheet : https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRL2zG1o-qj9l2sl19d1lj1oHd6WbkJ0ukFwN04a_ms_ANUdgxTMpI7AF-gbQzwOSreJUDx6PEK7Vnq/pubhtml
