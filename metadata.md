@@ -43,4 +43,4 @@
 |**totalTestsViral**| Total number of PCR tests (or specimens tested) |
 |**totalTestsViralIncrease**| Daily increase in totalTestsViral 
 
-#### link ti data quality sheet : https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRL2zG1o-qj9l2sl19d1lj1oHd6WbkJ0ukFwN04a_ms_ANUdgxTMpI7AF-gbQzwOSreJUDx6PEK7Vnq/pubhtml
+#### link to data quality sheet : https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRL2zG1o-qj9l2sl19d1lj1oHd6WbkJ0ukFwN04a_ms_ANUdgxTMpI7AF-gbQzwOSreJUDx6PEK7Vnq/pubhtml
