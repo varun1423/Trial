@@ -12,7 +12,7 @@
 |hospitalizedCurrently| Currently hospitalized |
 |hospitalizedIncrease| Daily increase in hospitalizedCumulative|
 |inIcuCumulative| ever been in ICU |
-|inIcuCurrently| Cuurently in ICU |
+|inIcuCurrently| Curently in ICU |
 |**negative**| number of unique of people with a completed PCR test negative|
 |negativeIncrease| Daily increase in negative |
 |*negativeTestsAntibody*| completed antibody tests that return negative|
