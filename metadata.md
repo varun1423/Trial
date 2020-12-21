@@ -1,5 +1,6 @@
 # US Test Data 
-
+|Attribute | Description |
+| -------- |------------ |
 |date| |
 |dataQualityGrade| Based 16 factors |
 |death| Total fatalities with confirmed OR probable COVID-19 case diagnosis|
