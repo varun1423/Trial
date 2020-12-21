@@ -2,7 +2,7 @@
 |Attribute | Description |
 | -------- |------------ |
 |date| |
-|dataQualityGrade| [https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRL2zG1o-qj9l2sl19d1lj1oHd6WbkJ0ukFwN04a_ms_ANUdgxTMpI7AF-gbQzwOSreJUDx6PEK7Vnq/pubhtml] [factors sheet] Based 16 factors |
+|dataQualityGrade| [link] Based on 16 factors |
 |death| Total fatalities with confirmed OR probable COVID-19 case diagnosis|
 |deathConfirmed| Total fatalities with confirmed COVID-19 case diagnosis|
 |deathIncrease| Daily increase in death |
@@ -41,4 +41,6 @@
 |**totalTestsPeopleViral**| unique people tested at least once via PCR testing
 |**totalTestsPeopleViralIncrease**| daily increase in totalTestsPeopleViral
 |**totalTestsViral**| Total number of PCR tests (or specimens tested) |
-|**totalTestsViralIncrease**| Daily increase in totalTestsViral
+|**totalTestsViralIncrease**| Daily increase in totalTestsViral 
+
+[link] : https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRL2zG1o-qj9l2sl19d1lj1oHd6WbkJ0ukFwN04a_ms_ANUdgxTMpI7AF-gbQzwOSreJUDx6PEK7Vnq/pubhtml
