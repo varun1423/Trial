@@ -2,24 +2,24 @@
 |Attribute | Description |
 | -------- |------------ |
 |date| |
-|dataQualityGrade| [link] Based on 16 factors |
+|dataQualityGrade| Based on 16 factors |
 |death| Total fatalities with confirmed OR probable COVID-19 case diagnosis|
 |deathConfirmed| Total fatalities with confirmed COVID-19 case diagnosis|
 |deathIncrease| Daily increase in death |
 |deathProbable| Total fatalities with probable COVID-19 case diagnosis|
-|hospitalized|	|
+|hospitalized| Ever been hospitalized	|
 |hospitalizedCumulative|  ever been hospitalized with COVID-19 |
-|hospitalizedCurrently| |
+|hospitalizedCurrently| Currently hospitalized |
 |hospitalizedIncrease| Daily increase in hospitalizedCumulative|
-|inIcuCumulative| |
-|inIcuCurrently| |
+|inIcuCumulative| ever been in ICU |
+|inIcuCurrently| Cuurently in ICU |
 |**negative**| number of unique of people with a completed PCR test negative|
-|negativeIncrease| |
+|negativeIncrease| Daily increase in negative |
 |*negativeTestsAntibody*| completed antibody tests that return negative|
 |*negativeTestsPeopleAntibody*| unique people with completed antibody tests that return negative|
 |**negativeTestsViral**| Completed PCR Test negatives|
-|onVentilatorCumulative| | 
-|onVentilatorCurrently|  |
+|onVentilatorCumulative| ever been in Ventilator | 
+|onVentilatorCurrently| Currently on Ventilator |
 |positive| confirmed plus probable cases |
 |**positiveCasesViral**|unique people with a positive PCR|
 |positiveIncrease| |
